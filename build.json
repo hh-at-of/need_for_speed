@@ -1,0 +1,5 @@
+{
+    "package_name": "n4s",
+    "base_image": "base16.10:0.2.1",
+    "models": []
+}

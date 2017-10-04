@@ -1,0 +1,10 @@
+.venv
+*.eggs
+*.egg-info
+__pycache__
+*.pkl
+*.egg
+**/.~lock*
+*.ipynb_checkpoints
+*~
+*pyc
